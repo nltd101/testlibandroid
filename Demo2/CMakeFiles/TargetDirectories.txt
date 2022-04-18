@@ -1,0 +1,3 @@
+/home/lap12395/Desktop/AndroidZalo/demoLIB/CMakeFiles/rebuild_cache.dir
+/home/lap12395/Desktop/AndroidZalo/demoLIB/CMakeFiles/edit_cache.dir
+/home/lap12395/Desktop/AndroidZalo/demoLIB/CMakeFiles/native-lib.dir
