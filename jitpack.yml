@@ -1,9 +1,2 @@
-jdk:
-  - openjdk9
 before_install:
    - cd Demo2
-install:
-   - echo "Running a custom install command"
-   - ./gradlew clean install -xtest
-env:
-   MYVAR: "custom environment variable"
